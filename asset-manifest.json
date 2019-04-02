@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.b334771c.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.d41b578d.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.d41b578d.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.ac2d5040.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.ac2d5040.js.map",
-  "static/js/2.66152545.chunk.js": "/react-gh-pages/static/js/2.66152545.chunk.js",
-  "static/js/2.66152545.chunk.js.map": "/react-gh-pages/static/js/2.66152545.chunk.js.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.0c053f1de969e41d6d12959122db7a13.js": "/react-gh-pages/precache-manifest.0c053f1de969e41d6d12959122db7a13.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js",
-  "static/css/main.b334771c.chunk.css.map": "/react-gh-pages/static/css/main.b334771c.chunk.css.map"
+  "main.css": "/react-ruoter-page/static/css/main.b334771c.chunk.css",
+  "main.js": "/react-ruoter-page/static/js/main.7762a013.chunk.js",
+  "main.js.map": "/react-ruoter-page/static/js/main.7762a013.chunk.js.map",
+  "runtime~main.js": "/react-ruoter-page/static/js/runtime~main.0eba14ec.js",
+  "runtime~main.js.map": "/react-ruoter-page/static/js/runtime~main.0eba14ec.js.map",
+  "static/js/2.66152545.chunk.js": "/react-ruoter-page/static/js/2.66152545.chunk.js",
+  "static/js/2.66152545.chunk.js.map": "/react-ruoter-page/static/js/2.66152545.chunk.js.map",
+  "index.html": "/react-ruoter-page/index.html",
+  "precache-manifest.ee286adbb8c6330e859a424be56e2c35.js": "/react-ruoter-page/precache-manifest.ee286adbb8c6330e859a424be56e2c35.js",
+  "service-worker.js": "/react-ruoter-page/service-worker.js",
+  "static/css/main.b334771c.chunk.css.map": "/react-ruoter-page/static/css/main.b334771c.chunk.css.map"
 }
